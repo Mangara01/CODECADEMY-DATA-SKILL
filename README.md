@@ -1,1 +1,16 @@
-# CODECADEMY-DATA-SKILL
+# Clustering Skills in Data-Based Jobs
+
+This repository is dedicated to clustering skills relevant to data-based jobs using PyCaret's clustering capabilities. Data-based jobs often require a combination of technical and soft skills, and understanding the key skills required is essential for both job seekers and employers. The goal of this project is to identify and categorize the important skills using clustering techniques, making it easier to analyze and navigate the complex landscape of data-based careers.
+
+## Key Feature
+
+In the Data_Analysis.ipynb notebook, you will find PyCaret code for:
+
+* Perform skill clustering.
+* Visualizing the results and insights from the skill clustering analysis.
+
+## File Description
+  
+### Data_Analysis.ipynb:
+
+This notebook contains code to build the machine learning.
